@@ -61,7 +61,7 @@
             text-decoration: underline;
         }
         .name {
-            color: darkblue; /* Changed the color to DarkBlue */
+            color: lightblue; /* Changed the color to lightBlue */
         }
     </style>
 </head>
